@@ -711,6 +711,36 @@ latex-document/
 
 ---
 
+## Sponsor
+
+<p align="center">
+  <a href="https://happycapy.ai">
+    <img src="assets/happycapy-logo.png" alt="HappyCapy — The Agent-Native Computer" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://happycapy.ai">
+    <img src="assets/happycapy-capy.png" alt="HappyCapy Interface — where this skill was born" width="500"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>This project is proudly sponsored by <a href="https://happycapy.ai">HappyCapy</a></strong>
+</p>
+
+[HappyCapy](https://happycapy.ai) provided **free access to their platform**, full **Claude Code API credits**, and **Anthropic Claude Opus 4.6** -- the model that built every template, wrote every script, and generated every capybara image in this repository.
+
+Without HappyCapy, this skill would still be a half-baked idea on a sticky note. Instead, it's 27 templates, 27 scripts, 217 passing tests, and three capybara mascots with better fashion sense than most academics.
+
+**What is HappyCapy?** The agent-native computer for developers. No local setup, no security risks, no "works on my machine" excuses. Launch Claude Code in your browser and start building. It's the platform where capybaras and code live in harmony.
+
+<p align="center">
+  <a href="https://happycapy.ai"><strong>Try HappyCapy for free</strong></a>
+</p>
+
+---
+
 ## License
 
 MIT
